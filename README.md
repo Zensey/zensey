@@ -2,7 +2,7 @@
 
 I am a backend SWE.
 
-My favourite fields are: IoT, real-time messaging, microservices, system programming 
+My favourite areas are: IoT, real-time messaging, microservices, system programming, security
 
 🔭 I’m currently working on
 * [go-data-routing](https://github.com/Zensey/go-data-routing) A stream-oriented data processing engine with DSL 
@@ -11,7 +11,6 @@ My favourite fields are: IoT, real-time messaging, microservices, system program
 
 🌱 I’m currently learning
 * distributed systems
-* devops
 * kernel-space programming
 
 <!--
