@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I am a backend SWE.
-
 My primary fields of interest are: IoT, real-time messaging, microservices, system programming, security
 
 🔭 I’m currently working on
