@@ -1,6 +1,8 @@
 - I work mostly on Backend
 - I’m currently working on
   - [relay](https://github.com/Zensey/joy5/tree/relay) simultaneous rebroadcasting of one RTMP stream to several social platforms
+  - [relay2](https://github.com/Zensey/joy5/tree/relay2) broadcast a looped video accompanied by an audio stream to a social platform
+  - [icefeed](https://github.com/Zensey/icefeed) A client for broadcasting M4A audio files to an Icestream 2 server
   - [split-tunnel](https://github.com/Zensey/split-tunnel) driver implementing per-app policy-based routing for Windows
   - USB sentinel - an endpoint security app for control and audit over the devices that a user plugs-in to a host.
 - Interests:
