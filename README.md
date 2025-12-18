@@ -1,12 +1,13 @@
-- I work mostly on Backend
+- I work mostly on backend and cloud solutions
 - I’m currently working on
   - [relay](https://github.com/Zensey/joy5/tree/relay) simultaneous rebroadcasting of one RTMP stream to several social platforms
   - [icefeed](https://github.com/Zensey/icefeed) A client for broadcasting M4A audio files to an Icestream 2 server
   - [split-tunnel](https://github.com/Zensey/split-tunnel) driver implementing per-app policy-based routing for Windows
   - USB sentinel - an endpoint security app for control and audit over the devices that a user plugs-in to a host.
+  - solutions for VPNs
 - Interests:
   - System programming (C/C++ and kernel)
   - Security
   - Distributed systems
 - ❤️ Open source
-- I sometimes teach computer science and programming
+- [Business information](https://zensey.github.io/zensey/anton-litvinov-business)
