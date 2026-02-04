@@ -10,4 +10,3 @@
   - Security
   - Distributed systems
 - ❤️ Open source
-- [Business information](https://zensey.github.io/zensey/anton-litvinov-business)
